@@ -27,4 +27,4 @@ In the future of *Gel* *Electrophoresis* there might be.
 
 * a replacement or better form of agarose.
 
-* more efictive method of Electrophoresis
+* more effective method of Electrophoresis
